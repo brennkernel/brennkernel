@@ -1,6 +1,5 @@
 ### Creative Technologist & Software Developer
-
-Based in Madrid.
+Based in Madrid
 
 Working across web systems, interfaces and prototyping, drawn to interdisciplinary work where computation becomes a material for design, art and research.
 
